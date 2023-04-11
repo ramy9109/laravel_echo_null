@@ -11,10 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   socket_io_client: 1.0.2
-  pusher_client:
-   git:
-      url: https://github.com/ramy9109/pusher_client
-      ref: main
+  pusher_client: ^2.0.0
 
 
 dev_dependencies:
